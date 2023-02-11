@@ -113,7 +113,7 @@ input::placeholder {
 @media screen and (max-width: 992px) {
 
 .container {
-    flex-direction: column;
+    flex-direction: column-reverse;
     margin-top: 0;
 }
 .main-part {
